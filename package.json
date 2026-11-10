@@ -1,10 +1,11 @@
 {
   "name": "web-server-challenge",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A first Node.js web server using the native http module",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "test": "node --test"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nzibukaemmanuel/Web-Server-challenge/issues"
   },
-  "homepage": "https://github.com/nzibukaemmanuel/Web-Server-challenge#readme"
+  "homepage": "https://github.com/nzibukaemmanuel/Web-Server-challenge#readme",
+  "engines": {
+    "node": ">=18"
+  }
 }
