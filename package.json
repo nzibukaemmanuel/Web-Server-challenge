@@ -1,0 +1,19 @@
+{
+  "name": "web-server-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nzibukaemmanuel/Web-Server-challenge.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nzibukaemmanuel/Web-Server-challenge/issues"
+  },
+  "homepage": "https://github.com/nzibukaemmanuel/Web-Server-challenge#readme"
+}
